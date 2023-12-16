@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-dipenginedev7/dipenginedev7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+arghyasdev/arghyasdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
